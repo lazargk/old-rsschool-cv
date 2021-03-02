@@ -1,3 +1,1 @@
-# rsschool-cv
-
-https://github.com/lazargk/rsschool-cv/cv
+https://lazargk.github.io/rsschool-cv/cv
